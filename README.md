@@ -11,3 +11,6 @@ The K-S test is a useful tool for comparing datasets and determining whether the
 ### ARIMA (Autoregressive Integrated Moving Average)
 ### LSTM Neural Net (long short term memory)
 ### Prophet (Facebook)
+
+## Data version tracking using DVC & MlFlow
+### dvc basically creates a md5 hash to track version of data and record past changes.
