@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shriyansh/mlflow/mlruns/0/0b1f16bfc1bf44839e923678e9ef9793/artifacts
+end_time: 1682840927419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b1f16bfc1bf44839e923678e9ef9793
+run_name: overjoyed-shad-456
+run_uuid: 0b1f16bfc1bf44839e923678e9ef9793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682840925633
+status: 3
+tags: []
+user_id: shriyansh

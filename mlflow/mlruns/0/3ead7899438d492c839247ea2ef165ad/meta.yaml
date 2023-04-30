@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shriyansh/mlflow/mlruns/0/3ead7899438d492c839247ea2ef165ad/artifacts
+end_time: 1682840448676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ead7899438d492c839247ea2ef165ad
+run_name: nimble-lynx-356
+run_uuid: 3ead7899438d492c839247ea2ef165ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682840446992
+status: 3
+tags: []
+user_id: shriyansh
