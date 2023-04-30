@@ -2,7 +2,7 @@
 
 ## Data Drift Detection using DEEPCHECKS
 
-### "Drift" is a term used in machine learning to describe how the performance of a machine learning model in production slowly gets worse over time. This can happen for a number of reasons, such as changes in the distribution of the input data over time or the relationship between the input (x) and the desired target (y) changing.Drift can be a big problem when we use machine learning in the real world, where data is often dynamic and always changing. 
+#### "Drift" is a term used in machine learning to describe how the performance of a machine learning model in production slowly gets worse over time. This can happen for a number of reasons, such as changes in the distribution of the input data over time or the relationship between the input (x) and the desired target (y) changing.Drift can be a big problem when we use machine learning in the real world, where data is often dynamic and always changing. 
 
 ## Algorithms to measure 
 
