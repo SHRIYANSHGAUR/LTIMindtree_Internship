@@ -1,4 +1,4 @@
-# LTIMindtree_Internship
+# LTIMindtree SWE Internship
 
 ## Project:: Automating ML process for Smart Chillers and HVAC (heating , ventilation and air-conditioning)systems.
 
