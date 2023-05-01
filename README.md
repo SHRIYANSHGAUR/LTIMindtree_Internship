@@ -1,5 +1,10 @@
 # LTIMindtree_Internship
 
+## Project:: Automating ML process for Smart Chillers and HVAC (heating , ventilation and air-conditioning)systems.
+
+### My work ranged from creating Machine Learning Pipelines in AzureML , Doing Data Drift Detection using deepchecks, performing Time series analysis using LSTMs and ARIMAX, carrying out Data versioning using DVC , and managing the end-to-end machine learning lifecycle using MlFlow.
+
+
 ## Data Drift Detection using DEEPCHECKS
 
 #### "Drift" is a term used in machine learning to describe how the performance of a machine learning model in production slowly gets worse over time. This can happen for a number of reasons, such as changes in the distribution of the input data over time or the relationship between the input (x) and the desired target (y) changing.Drift can be a big problem when we use machine learning in the real world, where data is often dynamic and always changing. 
